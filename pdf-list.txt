@@ -1,0 +1,6 @@
+Hands on Machine Learning with Scikit Learn-2019.pdf
+Deep Learning with Python-Francois_Chollet-En-2018.pdf
+Fundamentals of Deep Learning-2017 (Reinforcement Learning).pdf
+Mastering Feature Engineering-2016.pdf
+RLbook2018.pdf
+A DISCIPLINED APPROACH TO NEURAL NETWORK HYPER-PARAMETERS
