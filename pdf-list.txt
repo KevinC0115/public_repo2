@@ -1,6 +1,7 @@
-Hands on Machine Learning with Scikit Learn-2019.pdf
-Deep Learning with Python-Francois_Chollet-En-2018.pdf
-Fundamentals of Deep Learning-2017 (Reinforcement Learning).pdf
-Mastering Feature Engineering-2016.pdf
-RLbook2018.pdf
-A DISCIPLINED APPROACH TO NEURAL NETWORK HYPER-PARAMETERS
+Beginning.ReactJS.Foundations.Chris.Minnick.Wiley.9781119685548.EBooksWorld.ir
+Django.4.By.Example.4th.Edition.Antonio.Mele.Bob.Belderbos.Packt.9781801813051.EBooksWorld.ir
+ElasticSearchGuide
+ruby-rails-tutorial-learn-web-development-6th
+Packt.Elasticsearch.Server.3rd.Edition.www.EBooksWorld.ir
+Pro.Angular.5th.Edition.Apress.9781484281758.EBooksWorld.ir
+Pro.ASP.NET.Core.6.9th.Edition.Adam.Freeman.Apress.9781484279564.EBooksWorld.ir
